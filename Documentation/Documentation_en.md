@@ -182,7 +182,6 @@ There are 3 groups of obstacles in the game:
     - 100 - x2
     - 200 - x3
     - 300 - x4
-    - 400 - x5
 - the base multiplier can be increased by driving dangerously
 - the base multiplier has a minimum value of x1 and a maximum value of x10
 - base multiplier is reduced every 2s:

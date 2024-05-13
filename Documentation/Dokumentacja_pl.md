@@ -183,7 +183,6 @@ W grze są 3 grupy przeszkód:
     - 100 - x2
     - 200 - x3
     - 300 - x4
-    - 400 - x5
 - bazowy mnożnik można zwiększać przez niebezpieczną jazdę
 - bazowy mnożnik ma min wartość x1 i max wartość x10
 - bazowy mnożnik jest zmniejszany co 2s:
