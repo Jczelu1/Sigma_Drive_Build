@@ -14,6 +14,7 @@ For a full tutorial check the in game tutorial or the Tutorial.md file, meanwhil
 - You can drive onto the sidewalk and drive backwards (no, you can't fall under the map by reversing, don't try)
 - Don't destroy your car (optional)
 - all game data is saved in gameData.json, you can change it at your own risk
+- Click the rear view mirror to enable Sigma Mode, or enable it from settings
 
 
  
